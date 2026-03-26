@@ -1,5 +1,11 @@
 # cintel-03-signal-design
 
+# cintel-03-signal-design
+
+**Author:** Addie Gemmell  
+**GitHub:** https://github.com/ajerineg-coder  
+**Project Site:** https://ajerineg-coder.github.io/cintel-03-signal-design/
+
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
@@ -95,7 +101,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-03-signal-design
+git clone https://github.com/ajerineg-coder/cintel-03-signal-design
 
 cd cintel-03-signal-design
 code .
